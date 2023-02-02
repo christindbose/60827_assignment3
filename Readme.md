@@ -1,5 +1,5 @@
 
-# ECE 695 CUDA Programming Part 3
+# ECE 60827 CUDA Programming Part 3
 
 ## Professor Tim Rogers <br> TA: Christin Bose
 
