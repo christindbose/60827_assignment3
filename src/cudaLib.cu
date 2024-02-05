@@ -128,8 +128,8 @@ uint64_t evaluateGpuConv (TensorShape iShape, TensorShape fShape,
 
 int convLayer_gpu ( float * input, TensorShape iShape, 
 	float * filter, TensorShape fShape, 
-	float * bias, float * output, TensorShape & oShape, 
-	ConvLayerArgs & args, uint32_t batchSize) {
+	float * bias, float * output, TensorShape oShape, 
+	ConvLayerArgs & args) {
 
 	return 0;
 }
