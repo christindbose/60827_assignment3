@@ -110,7 +110,7 @@ GEMM implementation evaluated with different sizes.**
 
 > ### NOTE:
 >
-> The TensorDim struct has been modified to add a element for the 4th dimension (shown below).
+> The 4th dimension of the TensorShape struct will be used to represent the batchsize.
 > 
 > This should `NOT` affect any of your existing code unless you have used dynamic allocation for creating TensorShape objects and (incorrectly) `NOT` used `sizeof(TensorShape)`
 
