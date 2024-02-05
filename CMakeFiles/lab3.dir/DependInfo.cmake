@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/chris241/695TA/solutions/60827_assignment3/lab3.cu" "CMakeFiles/lab3.dir/lab3.cu.o" "gcc" "CMakeFiles/lab3.dir/lab3.cu.o.d"
+  "/home/tgrogers-raid/a/chris241/695TA/S24/60827_assignment3/lab3.cu" "CMakeFiles/lab3.dir/lab3.cu.o" "gcc" "CMakeFiles/lab3.dir/lab3.cu.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/chris241/695TA/solutions/60827_assignment3/src/CMakeFiles/cudaLib.dir/DependInfo.cmake"
-  "/home/chris241/695TA/solutions/60827_assignment3/src/CMakeFiles/cpuLib.dir/DependInfo.cmake"
+  "/home/tgrogers-raid/a/chris241/695TA/S24/60827_assignment3/src/CMakeFiles/cudaLib.dir/DependInfo.cmake"
+  "/home/tgrogers-raid/a/chris241/695TA/S24/60827_assignment3/src/CMakeFiles/cpuLib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
