@@ -598,7 +598,7 @@ int gemmLayer_cpu (float * a, TensorShape aShape,
 
 
 	while (tileId < tilesAlongW * tilesAlongH) {
-        int offsetH = (tileId / tilesAlongH) * args.tileH;
+        int offsetH = (tileId / tilesAlongW) * args.tileH;
         int offsetW = (tileId % tilesAlongW) * args.tileW;
         int rowIdx, colIdx;
         int row, col, subTile, subTileK, k;
